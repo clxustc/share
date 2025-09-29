@@ -6,5 +6,6 @@ https://help.altair.com/hwdesktop/hwx/topics/chapter_heads/refine_elements_r.htm
 
 廖雪峰的python教程：
 https://gitcode.com/Open-source-documentation-tutorial/c88b3/blob/main/%E5%BB%96%E9%9B%AA%E5%B3%B0python%E6%95%99%E7%A8%8B%E3%80%90%E5%AE%8C%E6%95%B4%E7%89%88%E3%80%91.pdf
+
 菜鸟教程——python：
 https://www.runoob.com/python/python-tutorial.html
