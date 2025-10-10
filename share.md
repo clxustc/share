@@ -9,3 +9,6 @@ https://gitcode.com/Open-source-documentation-tutorial/c88b3/blob/main/%E5%BB%96
 
 菜鸟教程——python：
 https://www.runoob.com/python/python-tutorial.html
+
+fmi官方文档：
+https://fmi-standard.org/docs/3.0.2/#fmi-whats-news
