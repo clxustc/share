@@ -12,3 +12,6 @@ https://www.runoob.com/python/python-tutorial.html
 
 fmi官方文档：
 https://fmi-standard.org/docs/3.0.2/#fmi-whats-news
+
+国创仿真材料库：
+https://www.bocangku.com/mat
