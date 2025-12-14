@@ -40,3 +40,8 @@ print(int(-5.1))  # -5
 print(-5.1 // 1)  # -6.0
 ```
 
+## float('inf') 和float('-inf')
+
+float('inf') 和float('-inf')分别表示正无穷大、负无穷大
+
+int('inf')非法
